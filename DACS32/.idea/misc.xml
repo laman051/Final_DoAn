@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/activity_main.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/activity_pizza.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/activity_show_cate.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/activity_show_detail.xml" value="0.22146739130434784" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/view_catefory.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/viewholder_cart.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/viewholder_category.xml" value="0.22592592592592592" />
+        <entry key="..\:/app/DOAN/DACS32/app/src/main/res/layout/viewholder_recommended.xml" value="0.22592592592592592" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
